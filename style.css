@@ -1,0 +1,85 @@
+/*Selector{
+	property: value;
+}*/
+html, body{
+	background-image: url('bg.jpg');
+	width: 100%;
+	 background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	background-attachment: fixed;
+}
+div{
+	text-transform: capitalize;
+	color: purple;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Rum Raisin', sans-serif;
+	text-decoration: italic;
+	font-weight: bold;
+	background-color: #e6e600;
+}
+h1{
+	color: purple;
+	font-size: 30px;
+	font-family: 'Rum Raisin', sans-serif;
+	text-decoration: italic;
+	font-weight: bold;
+	background-color: #e6e600;
+	width: 4.30em;
+}
+li{
+	font-family: 'Comic sans MS', cursive, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: italic;
+	color: white;
+	text-transform: capitalize;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+}
+a{
+	font-size: 40px;
+	text-decoration: none;
+	color: purple;
+	font-weight: bold;
+}
+a:hover{
+	text-decoration: underline;
+}
+.imagec{
+	margin-right: 100px;
+	margin-left: 550px;
+}
+.h1c{
+	color: purple;
+	font-size: 30px;
+	font-family: 'Rum Raisin', sans-serif;
+	text-decoration: italic;
+	font-weight: bold;
+	background-color: #e6e600;
+	width: 9.5em;
+}
+.a2{
+	font-size: 20px;
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+	font-size: smaller;
+}
+.h1v{
+	color: purple;
+	font-size: 30px;
+	font-family: 'Rum Raisin', sans-serif;
+	text-decoration: italic;
+	font-weight: bold;
+	background-color: #e6e600;
+	width: 6em;
+}
+.id5{
+	color: red;
+}
